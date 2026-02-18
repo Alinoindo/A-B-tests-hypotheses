@@ -13,4 +13,4 @@
 Разобраться, как ведут себя пользователи нашего мобильного приложения.
 
 ## Используемые библиотеки
-*pandas*, *matplotlib*, *numpy*, *datetime*, *scipy*, *math*
+*pandas*, *matplotlib*, *seaborn*, *datetime*, *scipy*, *plotly*
